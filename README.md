@@ -17,6 +17,10 @@
 > Hi there 👋 我是阿朗， 一名 Java 开发者，热衷于分享一些通俗易懂的技术文章。 分享几句鸡汤，长寿在于生活规律；成功在于坚持不懈。 做好的事情，而不是好做的事情。
 <!-- more -->
 
+## AI 开发
+
+- [MCP Streamable HTTP 协议入门与 100 行代码实现](https://wdbyte.com/spring-mcp-server-manual/)
+
 ## ⏳ Java 开发
 
 - [如何破解滑动验证码？](https://www.wdbyte.com/java/img-verification/)
